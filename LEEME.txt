@@ -1,0 +1,1 @@
+README local: abrir index.html con un servidor (por ejemplo: python -m http.server) o visitar la versión publicada.
