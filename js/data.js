@@ -86,7 +86,7 @@ const TL = [
  ["c. 2008","familia","Nace Yuliana, cuando Sandra tiene 27 años."],
  [2009,"contexto","3 de julio: abre el Salón del Nunca Más, espacio de memoria de las víctimas de Granada."],
  [2025,"contexto","Ley 2447: se prohíben los matrimonios y uniones con menores de 18 años."],
- [2026,"familia","Yuliana y Samuel convierten la caja en fuente histórica."]
+ [2026,"familia","Yuliana, Samuel y Luis Ángel convierten la caja en fuente histórica."]
 ];
 
 const MECH = [
